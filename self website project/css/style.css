@@ -5,3 +5,9 @@ body{
     background-color: #f4f4f4;
     font-family: arial, Helvetica, sans-serif;
 }
+
+.headings{
+    text-align: center;
+    background-color: #6b803c;
+    padding: 40px;
+}
